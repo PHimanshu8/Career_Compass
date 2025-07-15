@@ -1,0 +1,478 @@
+title,description,pursuing,stream
+English Language and Literature ,Focuses on developing strong reading writing and comprehension skills. This typically involves studying literature (American British or World) composition grammar and vocabulary. ,10th 9th ,none
+Mathematics , Students typically take Geometry or Algebra II  depending on the math courses they took in 9th grade. ,10th 9th,none 
+Science , Common choices include Biology  Chemistry  or Physics  often including both theoretical knowledge and practical experiments. ,10th 9th ,none
+Social Studies , Usually covers subjects like history (U.S.  World  or European)  government  civics  geography  and potentially economics ,10th 9th ,none
+Foreign Language , Common options include Spanish  French  or German  although others may be available. Many colleges prefer students to have taken at least three years of the same foreign language. ,10th 9th ,none
+Arts and Design , Options include drawing  painting  sculpture  drama  music  computer graphics  or other visual arts forms. ,10th 9th ,none
+Computer Science and Programming , Electives like coding  web design  or programming can provide valuable skills for future careers in technology and engineering. ,10th 9th ,none
+Physics , Study of matter energy and the laws governing the universe (mechanics electricity optics modern physics). ,11th 12th ,science
+Chemistry , Composition  properties  and reactions of substances (organic inorganic physical and analytical chemistry). ,11th 12th ,science
+Biology , Study of life and living organisms (cell structure physiology genetics biotechnology). ,11th 12th ,science
+Mathematics , Develops logical reasoning and analytical skills covering algebra trigonometry calculus and statistics. ,11th 12th ,science commerce
+English , Develops communication reading and writing skills. ,11th 12th ,science
+Computer Science (CS) ,Focuses on theoretical and practical aspects of computers  including programming languages (e.g.  Python  C++  Java)  data structures  algorithms  computer architecture  and networking. ,11th 12th ,science commerce
+Informatics Practices (IT) ,More practical and application oriented compared to CS  it covers topics like database management (SQL)  web development (HTML  CSS  JavaScript)  programming (e.g.  Python)  and basic hardware/software concepts. ,11th 12th ,science commerce
+Physical Education (PE) ,Focuses on physical fitness  sports  health  and exercise science topics. ,11th 12th 10th 9th ,science commerce arts humanities
+Environmental Science ,An interdisciplinary subject that examines the interaction between humans and the natural environment  focusing on issues like pollution  conservation  and sustainable development. ,11th 12th ,science
+Engineering Drawing ,Develops technical drawing and design skills essential for engineering disciplines  covering aspects like plane and solid geometry  machine drawing  and technical sketching. ,11th 12th ,science
+Psychology ,The scientific study of mind and behavior  exploring mental processes  emotions  motivations  and observable actions. It investigates the interaction between the body  mind  and the environment. ,11th 12th ,science arts humanities
+Biotechnology ,A multidisciplinary field combining biology with technology to develop products and solutions for healthcare  agriculture  and other industries. It covers areas like genetic engineering  bioinformatics  and bioprocess engineering. ,11th 12th ,science
+Accountancy , Principles and practices of financial accounting  analyzing and reporting financial information. ,11th 12th ,commerce 
+Business Studies , Explores various aspects of business operations  including management  marketing  and the business environment. ,11th 12th ,commerce 
+Economics , Studies how societies utilize resources to produce and distribute goods and services (microeconomics  macroeconomics  statistics). ,11th 12th ,commerce 
+Statistics , Statistics is the scientific discipline concerned with the collection  organization  analysis  interpretation  and presentation of data. ,11th 12th ,commerce 
+Fine Arts ,Fine arts encompasses creative disciplines focused on aesthetic expression and the creation of works appreciated primarily for their beauty and emotional power. ,11th 12th ,commerce 
+Entrepreneurship , Entrepreneurship is the process of creating  developing  and managing a new business venture or project  often involving innovation  risk taking  and the pursuit of profit or value creation. ,11th 12th ,commerce 
+History , Study of past events  civilizations  and their impact on the present. ,11th 12th ,humanities arts 
+Political Science , Explores governance  political systems  and international relations. ,11th 12th ,humanities arts 
+Geography , Understanding of Earth's landscapes  environments  and human environment interactions. ,11th 12th ,humanities arts 
+Sociology , Evolution of human society  social structures  and interactions. ,11th 12th ,humanities arts 
+Media Studies ,Media Studies is an academic field that critically examines the content  history  and effects of various forms of media  like television  film  radio  and digital platforms  to understand their impact on society  culture  and communication ,11th 12th ,humanities arts 
+Fashion Studies ,Fashion Studies is a comprehensive academic field that explores the cultural  historical  sociological  psychological  economic  and technological dimensions of fashion  encompassing not just clothing but also accessories  lifestyle  and its impact on society. ,11th 12th ,humanities arts 
+Human Rights and Gender Studies ,Human Rights and Gender Studies is an interdisciplinary field that examines the intersection of human rights principles with the social  cultural  and political construction of gender  exploring issues like equality  discrimination  violence  and empowerment across diverse contexts. ,11th 12th ,humanities arts 
+Mathematics for Computer Science , This includes Calculus  Linear Algebra  Probability and Statistics  and Discrete Mathematics (Logic  Set Theory  Graph Theory). These mathematical tools are crucial for problem solving and understanding algorithms. ,graduation ,cse ece eee food biotech IT civil aeronautical aerospace puresciences ca 
+Physics for Engineers , Covers basic concepts of physics relevant to technology. ,graduation ,cse ece eee food biotech IT civil aeronautical aerospace puresciences ca
+Chemistry for Engineers , Introduces chemical principles with industrial applications. ,graduation ,cse ece eee food biotech it
+Basic Electrical and Electronics Engineering , Covers the fundamentals of electrical technology and electronic circuits. ,graduation ,cse ece eee food biotech it civil aeronautical aerospace puresciences ca
+English for Communication / Technical Report Writing , Focuses on developing effective communication skills  including technical writing  essential for documentation and professional communication. ,graduation ,cse ece eee food biotech it civil aeronautical aerospace puresciences ca
+Engineering Graphics and Design , Introduces technical drawing and design principles. ,graduation ,cse ece eee food biotech it civil aeronautical aerospace puresciences ca
+Environmental Studies , Deals with environmental science issues and their relation to engineering. ,graduation ,cse ece eee food biotech it civil aeronautical aerospace puresciences ca
+Professional Ethics / Engineering Ethics , Covers ethical considerations in engineering and technology development. ,graduation ,cse ece eee food biotech it civil aeronautical aerospace puresciences ca
+Programming Fundamentals , Teaches the basics of programming using languages like C  C++  Java  or Python. ,graduation ,cse ece eee food biotech it civil aeronautical aerospace puresciences ca
+Data Structures and Algorithms , Deals with the efficient organization and manipulation of data using structures like arrays  lists  trees  and graphs  as well as algorithm design and analysis techniques like sorting and searching. ,graduation ,cse it
+Computer Organization and Architecture , Studies the internal structure and functioning of computer hardware  including the CPU  memory  and I/O systems. ,graduation ,cse it
+Operating Systems , Covers the principles of operating systems  including process management  memory management  and file systems. ,graduation ,cse it
+Database Management Systems (DBMS) , Focuses on the design  management  and querying of databases using concepts like relational models and SQL. ,graduation ,cse it
+Computer Networks , Covers the principles and protocols of computer networking  including the OSI and TCP/IP models. ,graduation ,cse it
+Software Engineering , Focuses on systematic approaches to software design  development  testing  and maintenance  including methodologies like Agile and Waterfall. ,graduation ,cse it
+Object Oriented Programming (OOP) , Focuses on programming paradigms using concepts like classes  objects  and inheritance  typically with languages like C++ or Java. ,graduation ,cse it
+Theory of Computation , Explores the theoretical foundations of computing  including automata theory  formal languages  computability  and complexity theory. ,graduation ,cse it
+Digital Logic Design , Covers the fundamentals of digital circuits and logic design. ,graduation ,cse it
+Compiler Design , Deals with the process of translating high level programming languages into machine code. ,graduation ,cse it
+Artificial Intelligence (AI) and Machine Learning (ML) , Covers search algorithms  machine learning techniques (supervised  unsupervised  reinforcement learning)  neural networks  Deep Learning  Natural Language Processing (NLP)  and Computer Vision. ,graduation ,cse it
+Data Science and Big Data Analytics , Focuses on statistical analysis  data mining  data visualization  and the use of big data technologies like Hadoop and Spark. ,graduation ,cse it
+Cyber Security , Covers cryptography  network security  ethical hacking  and secure communication. ,graduation ,cse it
+Cloud Computing , Deals with cloud architecture  virtualization  and services provided by platforms like AWS  Azure  and Google Cloud. ,graduation ,cse it
+Internet of Things (IoT) , Focuses on embedded systems  sensor networks  and IoT protocols. ,graduation ,cse it
+Web Technologies and Development , Covers frontend (HTML  CSS  JavaScript  frameworks like React and Angular) and backend development (Node.js  Django). ,graduation ,cse it
+Mobile Application Development , Focuses on developing applications for Android (Java/Kotlin) and iOS (Swift). ,graduation ,cse it
+Computer Graphics , Introduces techniques for creating and manipulating images and 3D modeling. ,graduation ,cse it
+Human Computer Interaction (HCI) , Focuses on designing user friendly interfaces and enhancing user experience. ,graduation ,cse it
+Robotics and Automation , Covers robot kinematics  control systems  and sensors. ,graduation ,cse it
+Bioinformatics , Combines computer science with biological data analysis. ,graduation ,cse it
+Distributed Systems , Deals with managing components dispersed across networks. ,graduation ,cse it
+Electronic Devices and Circuits (EDC) , Focuses on the operation  characteristics  and application of electronic components like diodes  transistors  and rectifiers. ,graduation ,ece
+Analog Electronics / Analog Electronic Circuits , Deals with the design and analysis of circuits using analog components  including amplifiers and oscillators. ,graduation  ,ece
+Digital Electronics / Digital Logic Design , Covers the fundamentals of digital circuits  including logic gates  combinational and sequential circuits  flip flops  and registers. ,graduation ,ece
+Signals and Systems , Studies the representation  analysis  and processing of signals in both time and frequency domains  utilizing tools like Fourier and Laplace transforms. ,graduation ,ece
+Electromagnetic Theory / Electromagnetic Fields & Waves , Explores the principles of electromagnetism  including Maxwell's equations  transmission lines  and antennas  essential for wireless communication. ,graduation ,ece
+Communication Systems (Analog and Digital) , Covers the principles of transmitting and receiving information  including modulation and demodulation techniques. ,graduation ,ece
+Microprocessors and Microcontrollers , Focuses on the architecture  programming  and interfacing of microprocessors (like the 8086) and microcontrollers (like the 8051)  crucial for embedded systems. ,graduation ,ece
+Network Analysis / Circuit Theory , Covers basic circuit analysis techniques like Ohm's Law  Kirchhoff's Laws  and network theorems (Thevenin's  Norton's). ,graduation ,ece
+Digital Signal Processing (DSP) , Deals with the processing of digital signals  including sampling  quantization  digital filters  and Fourier transforms.  ,graduation ,ece
+VLSI Design , Focuses on the design and testing of very large scale integrated circuits (VLSI)  including CMOS technology and hardware description languages (HDLs) like Verilog and VHDL. ,graduation ,ece
+Embedded Systems , Deals with designing and implementing specialized computer systems embedded within larger devices  often using microcontrollers. ,graduation ,ece
+Wireless Communication , Explores various wireless communication technologies  including cellular systems (like 4G and 5G)  mobile communication  and satellite communication. ,graduation ,ece
+Control Systems , Focuses on designing and analyzing systems to regulate and stabilize dynamic processes  utilizing concepts like feedback control and transfer functions. ,graduation ,ece
+Antennas and Wave Propagation , Studies the design and characteristics of antennas and how electromagnetic waves propagate through space. ,graduation ,ece
+Optical Communication , Deals with the transmission of data using optical fibers  covering fiber materials  sources  detectors  and system design. ,graduation ,ece
+Microwave Engineering , Covers the generation  transmission  and measurement of microwave signals  including components like RF and microwaves  and applications like Radar systems. ,graduation ,ece
+Image Processing and Computer Vision , Focuses on analyzing and interpreting visual information from images and videos. ,graduation ,ece
+Computer Networks , Focuses on the design  implementation  and management of networked systems  including network protocols  routing algorithms  and network security. ,graduation ,ece
+Power Electronics , Deals with the application of electronics to control and convert electrical power efficiently  including power semiconductor devices  rectifiers  and inverters. ,graduation ,ece
+Nanoelectronics , Explores electronic devices and systems at the nanoscale. ,graduation ,ece
+Robotics and Automation , Focuses on designing  building  and programming robots  integrating mechanics  electronics  and control systems. ,graduation ,ece
+Electrical Circuit Analysis / Network Theory , Deals with fundamental electrical laws like Ohm's Law and Kirchhoff's Laws and network theorems to analyze the behavior of electrical circuits. ,graduation ,eee
+Electrical Machines (DC and AC) , Covers the principles  construction  operation  and control of various electrical machines  including DC machines  transformers  and AC machines (induction motors  synchronous machines). ,graduation ,eee
+Power Systems , Focuses on the generation  transmission  and distribution of electrical power  including power plant concepts  transmission lines  and substations. ,graduation ,eee
+Control Systems , Deals with designing and analyzing systems that regulate and automate processes  using feedback mechanisms to achieve desired outputs. ,graduation ,eee
+Power Electronics , Explores the application of solid state electronics to control and convert electrical power  using devices like diodes  transistors  and thyristors. ,graduation ,eee
+Electrical Measurements & Instrumentation , Covers methods and instruments used to measure electrical quantities like voltage  current  power  and energy  including sensors and transducers. ,graduation ,eee
+Digital Electronics / Digital Logic Design , Introduces digital logic circuits  including logic gates  combinational and sequential circuits  and the design of digital systems. ,graduation ,eee
+Analog Electronics / Analog Electronic Circuits , Focuses on the design and analysis of circuits using analog components  including amplifiers and operational amplifiers. ,graduation ,eee
+Electromagnetic Field Theory (EMFT) , Studies the fundamental principles of electromagnetism and their application in electrical engineering. ,graduation ,eee
+Microprocessors and Microcontrollers , Covers the architecture  programming  and applications of microprocessors (e.g.  8085  8086) and microcontrollers (e.g.  8051). ,graduation ,eee
+Signals and Systems , Studies the representation  analysis  and processing of signals and the characteristics of systems that process these signals. ,graduation ,eee
+Power System Analysis and Control , Focuses on advanced analysis techniques for power systems and methods for their optimal operation and control. ,graduation ,eee
+High Voltage Engineering , Deals with the generation  measurement  and control of high voltages  and the study of insulation breakdown phenomena. ,graduation ,eee
+Renewable Energy Sources , Covers the principles  technologies  and applications of renewable energy systems like solar  wind  and hydropower. ,graduation ,eee
+Electric Drives , Focuses on the control of electric motors for various industrial applications. ,graduation ,eee
+Digital Signal Processing (DSP) , Deals with the processing of digital signals  including filtering  spectral analysis  and modulation techniques. ,graduation ,eee
+VLSI Design , Covers the design and fabrication of very large scale integrated circuits  including using hardware description languages like Verilog/VHDL. ,graduation ,eee
+Control Systems Design , Focuses on advanced techniques for designing robust and efficient control systems. ,graduation ,eee
+Smart Grid Technology , Explores modernizing power grids using digital technology for enhanced efficiency  reliability  and sustainability. ,graduation ,eee
+Embedded Systems , Involves designing and programming microcontrollers for specific applications within larger systems. ,graduation ,eee
+Instrumentation Engineering , Focuses on the design and application of instruments for measurement and control in industrial processes. ,graduation ,eee
+Electric Vehicles Technologies , Examines the technologies and systems involved in the design and operation of electric vehicles. ,graduation ,eee
+Communication Engineering , Covers various communication systems  including analog and digital communication  wireless communication  and networking concepts. ,graduation ,eee
+Engineering Mechanics , Studies forces  equilibrium  motion  kinematics  and kinetics of particles and rigid bodies. ,graduation ,mech
+Mechanics of Materials / Strength of Materials , Analyzes the behavior of materials under stress and strain. ,graduation ,mech
+Fluid Mechanics , Explores fluid properties  fluid statics  and fluid dynamics. ,graduation ,mech
+Thermodynamics , Studies the relationship between heat  work  and energy conversion. ,graduation ,mech
+Heat Transfer , Covers conduction  convection  radiation  and heat exchangers. ,graduation ,mech
+Machine Design , Focuses on designing machine elements like shafts  bearings  and gears. ,graduation ,mech
+Manufacturing Processes , Deals with various methods of creating products  including casting  machining  and welding. ,graduation ,mech
+Theory of Machines / Kinematics and Dynamics of Machines , Studies the motion and forces within mechanisms and machine elements. ,graduation ,mech
+Control Systems , Focuses on designing and analyzing systems to regulate and automate mechanical processes. ,graduation ,mech
+Mechanical Measurements and Instrumentation , Covers techniques and equipment for measuring physical quantities in mechanical systems ,graduation ,mech
+Computational Fluid Dynamics (CFD) , Applies numerical methods to solve fluid flow problems. ,graduation ,mech
+Finite Element Analysis (FEA) , Utilizes numerical methods for stress and structural analysis. ,graduation ,mech
+Robotics and Automation , Covers robot kinematics  control  and automated systems. ,graduation ,mech
+Automotive Engineering , Focuses on the design  analysis  and manufacturing of automobiles. ,graduation ,mech
+Mechatronics , Integrates mechanical systems with electronics and control. ,graduation ,mech
+Renewable Energy Systems , Explores sustainable energy solutions like solar and wind power. ,graduation ,mech
+Advanced Materials and Composites , Investigates the properties and applications of modern materials. ,graduation ,mech
+Industrial Engineering and Operations Research , Optimizes production processes and systems.  ,graduation ,mech
+Food Chemistry and Biochemistry , Studies the chemical composition of food components (carbohydrates  proteins  fats  vitamins) and their interactions and changes during processing and storage. ,graduation ,food
+Food Microbiology , Examines the role of microorganisms (bacteria  molds  yeasts) in food spoilage  fermentation  and foodborne diseases  along with methods for their detection and control. ,graduation ,food
+Food Processing and Preservation , Focuses on techniques used to extend the shelf life of food  such as canning  freezing  dehydration  fermentation  pasteurization  and packaging. ,graduation ,food
+Unit Operations in Food Processing , Deals with the principles and applications of various physical operations involved in food processing  like heat transfer  mass transfer  fluid flow  filtration  drying  and refrigeration. ,graduation ,food
+Food Engineering , Applies engineering principles to design  analyze  and optimize food processing equipment and systems. ,graduation ,food
+Food Quality Control and Assurance , Covers methods for assessing and maintaining the quality and safety of food products  including analytical techniques  food standards  and quality management systems (e.g.  HACCP  ISO 9001  ISO 22000). ,graduation ,food
+Food Packaging Technology , Studies the materials  methods  and science behind packaging to protect food quality and ensure safety during storage and distribution. ,graduation ,food
+Principles of Food Science , Provides an overview of the fundamental scientific principles underlying food properties  composition  and behavior. ,graduation ,food
+Food and Nutrition , Focuses on the nutritional value of different foods  dietary requirements  and the impact of processing on nutrient content. ,graduation ,food
+Dairy Technology , Deals with the processing  preservation  and quality control of milk and dairy products. ,graduation ,food
+Cereals  Pulses  and Oilseeds Technology , Focuses on the processing of staple crops like wheat milling  baking technology  and oil extraction. ,graduation ,food
+Fruits and Vegetables Processing Technology , Covers post harvest handling  preservation  and processing of fruits and vegetables. ,graduation ,food
+Meat  Fish  and Poultry Technology , Studies the processing  preservation  and quality control of animal products. ,graduation ,food
+Bakery and Confectionery Technology , Focuses on the science and technology of baking  confectionery  and chocolate production. ,graduation ,food
+Beverage Technology , Deals with the processing of alcoholic and non alcoholic beverages. ,graduation ,food
+Food Biotechnology , Explores the application of biotechnological tools for improving food processing  quality  and nutrient content. ,graduation ,food
+Functional Foods and Nutraceuticals , Focuses on foods that provide health benefits beyond basic nutrition. ,graduation ,food
+Food Product Development , Involves the systematic process of creating new food products from concept to market. ,graduation ,food
+Food Laws and Regulations , Covers the legal framework governing food safety  quality  and labeling standards. ,graduation ,food
+Food Plant Layout and Design , Deals with the efficient planning and design of food processing plants. ,graduation ,food
+Food Sensory Science , Focuses on evaluating food quality based on sensory attributes like taste  smell  and texture. ,graduation ,food
+Strength of Materials / Mechanics of Solids , Analyzing material behavior under stress and strain. ,graduation ,civil
+Fluid Mechanics , Understanding fluid properties and dynamics. ,graduation ,civil
+Surveying and Geomatics , Measuring and mapping the earth's surface using various techniques. ,graduation ,civil
+Building Materials , Studying the properties and selection of construction materials. ,graduation ,civil
+Structural Analysis , Analyzing forces and deformations in structures. ,graduation ,civil
+Design of Reinforced Concrete Structures (RCC) and Steel Structures , Designing structures using concrete and steel. ,graduation ,civil
+Geotechnical Engineering (Soil Mechanics) , Studying soil and rock behavior for foundation design. ,graduation ,civil
+Hydraulics  Hydrology  and Water Resources Engineering , Dealing with fluid behavior  water management  and related systems. ,graduation ,civil
+Environmental Engineering , Addressing environmental protection through pollution control and waste management. ,graduation ,civil
+Transportation Engineering , Planning  designing  and maintaining transportation systems. ,graduation ,civil
+Construction Planning and Management , Covering project planning  scheduling  and resource allocation. ,graduation ,civil
+Estimation  Costing and Valuation , Calculating project costs and property values. ,graduation ,civil
+Building Planning and Drawing , Focusing on architectural planning and preparing construction drawings.  ,graduation ,civil
+Earthquake Engineering , Designing structures to resist seismic forces. ,graduation ,civil
+Bridge Engineering , Designing and constructing bridges. ,graduation ,civil
+Advanced Concrete Technology , Exploring specialized concrete applications. ,graduation ,civil
+Ground Improvement Techniques , Methods for improving soil properties. ,graduation ,civil
+Pavement Design and Engineering , Designing road and highway pavements. ,graduation ,civil
+Urban Transportation Planning , Planning urban transport systems. ,graduation ,civil
+Sustainable Construction and Green Buildings , Environmentally friendly building practices. ,graduation ,civil
+Computer ,Aided Design and Drafting (CADD)  Using software for advanced design. ,graduation ,civil
+Disaster Preparedness and Management , Planning for natural disaster mitigation. ,graduation ,civil
+Biochemistry , Studies the chemical processes and substances within living organisms  including the structure and function of biomolecules like proteins  carbohydrates  lipids  and nucleic acids. ,graduation ,biotech
+Microbiology , Examines microorganisms (bacteria  viruses  fungi) and their role in various processes like fermentation  disease  and industrial applications.,graduation ,biotech
+Cell Biology , Focuses on the structure  function  and behavior of cells  which are the basic units of life.,graduation ,biotech
+Molecular Biology , Explores the molecular mechanisms of biological processes  particularly the structure and function of DNA  RNA  and proteins  and their interactions within cells.,graduation ,biotech
+Genetics , Studies heredity  genes  and the variation of inherited characteristics in living organisms.,graduation ,biotech
+Immunology , Covers the immune system  its components  and its role in protecting the body against diseases  including antibody production and immune responses.,graduation ,biotech
+Bioinformatics and Biostatistics , Combines computer science and statistics for the analysis and interpretation of biological data  including genomic and proteomic data.,graduation ,biotech
+Recombinant DNA Technology / Genetic Engineering , Focuses on modifying the genetic material of organisms to introduce new traits or produce specific proteins.,graduation ,biotech
+Enzyme Technology , Deals with the properties  production  and industrial applications of enzymes as biocatalysts.,graduation ,biotech
+Bioprocess Engineering , Applies engineering principles to design  analyze  and optimize biological processes for industrial production.,graduation ,biotech
+Downstream Processing , Focuses on the purification and recovery of bioproducts from fermentation broths or cell cultures.,graduation ,biotech
+Analytical Techniques in Biotechnology / Instrumentation in Biotechnology , Covers various laboratory techniques and instruments used for analysis and measurement in biotechnology.,graduation ,biotech
+Plant Biotechnology , Focuses on techniques like plant tissue culture and genetic engineering for crop improvement and agricultural applications.,graduation ,biotech
+Animal Biotechnology , Deals with genetic manipulation  cell culture  and reproduction technologies in animals.,graduation ,biotech
+Medical Biotechnology / Pharmaceutical Biotechnology , Explores the development of diagnostics  drugs  vaccines  and therapies using biotechnological approaches.,graduation ,biotech
+Environmental Biotechnology , Applies biotechnological tools for environmental protection  waste treatment  bioremediation  and sustainability.,graduation ,biotech
+Industrial Biotechnology / Fermentation Technology , Focuses on the use of microorganisms and enzymes in industrial processes to produce biofuels  enzymes  and other biochemicals.,graduation ,biotech
+Nanobiotechnology , Explores the application of nanotechnology in biological systems for drug delivery  diagnostics  and biomaterials.,graduation ,biotech
+Bioethics and Biosafety , Addresses ethical considerations  safety guidelines  and regulatory frameworks surrounding biotechnology research and applications.,graduation ,biotech
+Genomics and Proteomics , Studies the entire set of genes (genome) and proteins (proteome) of an organism.,graduation ,biotech
+Tissue Engineering , Focuses on creating functional tissues and organs using biological and engineering principles.,graduation ,biotech
+Biofuel Technology and Engineering , Deals with the production of biofuels from biomass.,graduation ,biotech
+Computational Biology , Uses computational methods to solve biological problems.,graduation ,biotech
+Aerodynamics , Studies the flow of air around aircraft  including lift  drag  and stability  with topics like compressible and incompressible flows  as well as boundary layers. ,graduation ,aeronautics
+Aircraft Structures , Focuses on the structural elements and analysis of aircraft to ensure safety and structural integrity. ,graduation ,aeronautics
+Propulsion Systems , Deals with aircraft engines (e.g.  gas turbines  jet engines  rocket propulsion) and their performance. ,graduation ,aeronautics
+Flight Mechanics / Flight Dynamics , Analyzes aircraft performance in different flight conditions  including stability and control. ,graduation ,aeronautics
+Aircraft Materials , Examines the materials used in aircraft construction  such as alloys and composites  and their properties. ,graduation ,aeronautics
+Avionics and Aircraft Instrumentation , Covers the electronic systems within an aircraft  including navigation  communication  and control systems. ,graduation ,aeronautics
+Aircraft Design , Applies the knowledge from other subjects to the complete design process of aircraft. ,graduation ,aeronautics
+Thermodynamics , Principles of heat  work  and energy conversion relevant to propulsion systems. ,graduation ,aeronautics
+Fluid Mechanics , Underlying principles of fluid behavior  essential for aerodynamics. ,graduation ,aeronautics
+Control Systems , Designs and analyzes systems to regulate and automate aircraft processes. ,graduation ,aeronautics
+Computational Fluid Dynamics (CFD) , Uses numerical methods to simulate fluid flow. ,graduation ,aeronautics
+Finite Element Analysis (FEA) , Applies numerical methods for structural analysis. ,graduation ,aeronautics
+Aeroelasticity and Vibrations , Studies the interaction of aerodynamic  elastic  and inertial forces. ,graduation ,aeronautics
+Rockets and Missiles / Space Propulsion , Focuses on rocket propulsion systems. ,graduation ,aeronautics
+Aircraft Maintenance and Repair , Covers maintenance practices  inspection  and repair. ,graduation ,aeronautics
+Aviation Regulations and Safety Management , Addresses aviation laws  standards  and safety procedures. ,graduation ,aeronautics
+Composite Materials and Structures , Investigates advanced composite materials used in aircraft construction. ,graduation ,aeronautics
+Advanced Propulsion Systems , Explores innovative propulsion technologies. ,graduation ,aeronautics
+Aerodynamics , Studies the interaction of air with moving bodies  including lift  drag  and airflow dynamics. ,graduation ,dynamics
+Propulsion Systems , Focuses on the science and technology behind jet engines  rocket engines  and other propulsion systems. ,graduation ,dynamics
+Aerospace Structures , Deals with the design  analysis  and construction of aircraft and spacecraft structures  considering loads and stresses. ,graduation ,dynamics
+Flight Mechanics / Flight Dynamics , Analyzes the performance  stability  and control of aircraft in flight. ,graduation ,dynamics
+Spaceflight Mechanics / Orbital Mechanics , Studies the motion of spacecraft  including orbits  trajectories  and attitude control. ,graduation ,dynamics
+Avionics and Navigation Systems , Covers the electronic systems within aerospace vehicles for navigation  communication  and control. ,graduation ,dynamics
+Control Systems , Focuses on designing systems to regulate and automate aerospace processes. ,graduation ,dynamics
+Aircraft Design / Aerospace Vehicle Design , Integrates various disciplines to design complete aircraft and spacecraft. ,graduation ,dynamics
+Manufacturing Technology , Studies the processes used to manufacture aerospace components. ,graduation ,dynamics
+Thermodynamics , Principles of energy transfer and heat conversion applied to engines and other systems. ,graduation ,dynamics
+Fluid Mechanics , Essential for understanding fluid behavior  particularly for aerodynamics and propulsion. ,graduation ,dynamics
+Strength of Materials / Mechanics of Solids , Analyzes how materials deform under stress and strain. ,graduation ,dynamics
+Computational Fluid Dynamics (CFD) , Uses numerical methods to simulate fluid flow around aerospace vehicles. ,graduation ,dynamics
+Finite Element Analysis (FEA) , Applies numerical methods for structural analysis and design. ,graduation ,dynamics
+Aeroelasticity and Vibrations , Studies the interaction of aerodynamic forces and structural dynamics  particularly in the context of aircraft and spacecraft. ,graduation ,dynamics
+Rocket Propulsion / Advanced Propulsion Systems , Focuses on rocket engines and advanced propulsion concepts. ,graduation ,dynamics
+Spacecraft Systems Engineering , Deals with the design  integration  and management of spacecraft systems. ,graduation ,dynamics
+Satellite Technology , Explores the design  operation  and applications of satellites. ,graduation ,dynamics
+Unmanned Aerial Vehicles (UAVs) , Covers the design  operation  and applications of drones. ,graduation ,dynamics
+High Speed Aerodynamics / Hypersonic Aerodynamics , Focuses on the aerodynamics of aircraft traveling at very high speeds. ,graduation ,dynamics
+Aircraft Maintenance and Repair , Covers the practices and procedures for aircraft upkeep. ,graduation ,dynamics
+Aviation Regulations and Safety Management , Addresses the rules  standards  and safety protocols in aviation ,graduation ,dynamics
+Anatomy , The study of the structure of the human body  including gross anatomy  microanatomy (histology)  embryology  genetics  and neuroanatomy. ,graduation ,Bachelor of Medicine and Bachelor of Surgery (MBBS)
+Physiology , Focuses on the functions and mechanisms of the human body systems  including cardiovascular  respiratory  gastrointestinal  and renal systems  as well as general physiology  nerve muscle physiology  and blood physiology. ,graduation ,Bachelor of Medicine and Bachelor of Surgery (MBBS)
+Biochemistry , Examines the chemical processes within living organisms  covering topics like molecular biology  biological cells  hormones  metabolic pathways  enzymes  biomolecules  and nutrition. ,graduation ,Bachelor of Medicine and Bachelor of Surgery (MBBS)
+Pathology , The study of disease mechanisms and diagnosis  including systemic and general pathology. ,graduation ,Bachelor of Medicine and Bachelor of Surgery (MBBS)
+Pharmacology , Focuses on the knowledge of drugs  their effects on the body  and their therapeutic uses. ,graduation ,Bachelor of Medicine and Bachelor of Surgery (MBBS)
+Microbiology , The study of microorganisms (bacteria  viruses  fungi  parasites) and their role in causing disease. ,graduation ,Bachelor of Medicine and Bachelor of Surgery (MBBS)
+Forensic Medicine and Toxicology , Applies medical knowledge to legal issues  including autopsy procedures  forensic pathology  and toxicology. ,graduation ,Bachelor of Medicine and Bachelor of Surgery (MBBS)
+Community Medicine , Covers public health  epidemiology  preventive medicine  and biostatistics. Students also begin clinical postings in wards during this phase. ,graduation ,Bachelor of Medicine and Bachelor of Surgery (MBBS)
+General Medicine , Diagnosis and treatment of various medical conditions. ,graduation ,Bachelor of Medicine and Bachelor of Surgery (MBBS)
+General Surgery , Surgical procedures and patient management. ,graduation ,Bachelor of Medicine and Bachelor of Surgery (MBBS)
+Pediatrics , Medical care of infants  children  and adolescents. ,graduation ,Bachelor of Medicine and Bachelor of Surgery (MBBS)
+Obstetrics and Gynaecology , Focuses on women's reproductive health  pregnancy  and childbirth. ,graduation ,Bachelor of Medicine and Bachelor of Surgery (MBBS)
+Ophthalmology , Study of eye diseases and vision disorders. ,graduation ,Bachelor of Medicine and Bachelor of Surgery (MBBS)
+Otorhinolaryngology (ENT) , Disorders of the ear  nose  and throat. ,graduation ,Bachelor of Medicine and Bachelor of Surgery (MBBS)
+Orthopaedics , Study of musculoskeletal system disorders  including bones and joints. ,graduation ,Bachelor of Medicine and Bachelor of Surgery (MBBS)
+Dermatology and Venereology , Deals with skin diseases and sexually transmitted infections. ,graduation ,Bachelor of Medicine and Bachelor of Surgery (MBBS)
+Psychiatry , Diagnosis  prevention  and treatment of mental disorders. ,graduation ,Bachelor of Medicine and Bachelor of Surgery (MBBS)
+Anesthesiology , Focuses on pain management and anesthesia for surgeries. ,graduation ,Bachelor of Medicine and Bachelor of Surgery (MBBS)
+Radiology , Involves medical imaging to diagnose and treat diseases. ,graduation ,Bachelor of Medicine and Bachelor of Surgery (MBBS)
+Clinical Postings , Practical exposure and rotations in various departments  including Medicine  Surgery  OBG  Pediatrics  and Emergency Medicine. ,graduation ,Bachelor of Medicine and Bachelor of Surgery (MBBS)
+General Human Anatomy including Embryology and Histology , Studies the structure of the human body  particularly emphasizing the head and neck regions relevant to dentistry. ,graduation ,Bachelor of Dental Surgery (BDS)
+General Human Physiology  Biochemistry  Nutrition and Dietetics , Focuses on the functions of the human body systems  the chemical processes within organisms  and the role of nutrition in health. ,graduation ,Bachelor of Dental Surgery (BDS)
+Dental Anatomy and Oral Histology , Studies the morphology  structure  and development of teeth and oral tissues. This often includes tooth carving and the study of enamel  dentin  pulp  and periodontium. ,graduation ,Bachelor of Dental Surgery (BDS)
+General Pathology and Microbiology , Examines disease mechanisms and microorganisms (bacteria  viruses  fungi) relevant to oral and systemic health. ,graduation ,Bachelor of Dental Surgery (BDS)
+General and Dental Pharmacology and Therapeutics , Covers the knowledge of drugs  their actions  and their use in treating dental and medical conditions. ,graduation ,Bachelor of Dental Surgery (BDS)
+Dental Materials , Studies the properties  applications  and handling of various materials used in dentistry  such as gypsum products and impression materials. ,graduation ,Bachelor of Dental Surgery (BDS)
+Preclinical Conservative Dentistry , Introduces techniques for cavity preparation and restoration using dental instruments and materials. ,graduation ,Bachelor of Dental Surgery (BDS)
+Preclinical Prosthodontics & Crown and Bridge , Focuses on the basic principles of replacing missing teeth  including the fabrication of complete dentures and partial dentures ,graduation ,Bachelor of Dental Surgery (BDS)
+Oral Pathology and Oral Microbiology , Studies the pathology and microbiology of oral diseases and disorders  their impact on oral tissues  and diagnostic methods. ,graduation ,Bachelor of Dental Surgery (BDS)
+Oral Medicine and Radiology , Focuses on the diagnosis and medical management of oral diseases  including diagnostic imaging techniques like X rays and imaging modalities like CT scans. ,graduation ,Bachelor of Dental Surgery (BDS)
+Oral and Maxillofacial Surgery , Deals with surgical procedures in the oral cavity and facial region  including extractions  trauma management  and minor oral surgeries. ,graduation ,Bachelor of Dental Surgery (BDS)
+Conservative Dentistry and Endodontics , Focuses on preserving natural teeth through restorative procedures  root canal treatments  and aesthetic dentistry. ,graduation ,Bachelor of Dental Surgery (BDS)
+Prosthodontics and Crown and Bridge , Specializes in restoring and replacing missing teeth and oral structures  including dentures  crowns  and bridges. ,graduation ,Bachelor of Dental Surgery (BDS)
+Periodontology , Studies the supporting structures of teeth  including gums and bone  and the prevention and treatment of gum diseases. ,graduation ,Bachelor of Dental Surgery (BDS)
+Orthodontics and Dentofacial Orthopaedics , Focuses on correcting misaligned teeth and jaws  including the use of braces and other appliances. ,graduation ,Bachelor of Dental Surgery (BDS)
+Paediatric and Preventive Dentistry , Provides dental care for children and emphasizes preventive measures. ,graduation ,Bachelor of Dental Surgery (BDS)
+Public Health Dentistry (Community Dentistry) , Focuses on promoting oral health at the community level  including epidemiology  biostatistics  and public health initiatives ,graduation ,Bachelor of Dental Surgery (BDS)
+General Medicine , Covers the diagnosis  treatment  and prognosis of various medical conditions  including understanding the symptoms and signs to provide appropriate medication. ,graduation ,Bachelor of Dental Surgery (BDS)
+General Surgery , Covers basic surgical principles  wound management  inflammation  and managing conditions like abscesses and shock. ,graduation ,Bachelor of Dental Surgery (BDS)
+Padartha Vigyan and Ayurved Itihas (Fundamental Principles and History of Ayurveda) , Introduces the philosophical background  basic principles (like Panchamahabhuta and Tridosha theory)  and the historical development of Ayurveda.  ,graduation ,Bachelor of Ayurvedic Medicine and Surgery (BAMS)
+Sanskrit , Teaches the classical language in which most ancient Ayurvedic texts are written  allowing students to access original scriptures. ,graduation ,Bachelor of Ayurvedic Medicine and Surgery (BAMS)
+Kriya Sharir (Human Physiology) , Focuses on the functions and mechanisms of the human body  incorporating both Ayurvedic (Doshas  Dhatus  Malas) and modern physiological perspectives. ,graduation ,Bachelor of Ayurvedic Medicine and Surgery (BAMS)
+Rachana Sharir (Human Anatomy) , Studies the structure of the human body  including gross anatomy  microanatomy  embryology  and genetics  from both Ayurvedic and modern viewpoints. ,graduation ,Bachelor of Ayurvedic Medicine and Surgery (BAMS)
+Samhita Adhyayan (Study of Ayurveda Classical Text) , Begins the study of classical Ayurvedic texts  such as portions of Ashtanga Hridaya. ,graduation ,Bachelor of Ayurvedic Medicine and Surgery (BAMS)
+Dravyaguna Vigyan (Pharmacology and Materia Medica  Herbal) , Studies the properties  actions  and uses of medicinal plants and herbs in Ayurveda. ,graduation ,Bachelor of Ayurvedic Medicine and Surgery (BAMS)
+Rasashastra Evam Bhaishajyakalpana (Ayurvedic Pharmaceutics and Iatrochemistry) , Focuses on the preparation of Ayurvedic medicines using minerals  metals  and herbal formulations  along with pharmaceutical techniques and equipment. ,graduation ,Bachelor of Ayurvedic Medicine and Surgery (BAMS)
+Roga Nidan Evam Vikriti Vigyan (Methods of Diagnosis  Diagnostic Procedures and Pathology) , Covers the understanding of diseases and disorders  Ayurvedic diagnostic methods (Pancha Nidana  Ashtavidha Pariksha)  and basic modern pathology principles. ,graduation ,Bachelor of Ayurvedic Medicine and Surgery (BAMS)
+Agad Tantra Evam Vidhi Vaidyaka (Clinical Toxicology and Medical Jurisprudence) , Studies toxicology (poisons and their treatment) and the legal aspects of medical practice  including forensic medicine. ,graduation ,Bachelor of Ayurvedic Medicine and Surgery (BAMS)
+Samhita Adhyayan  (Study of Ayurveda Classical Text) , Continues the study of Ayurvedic classical texts  often focusing on parts of Charaka Samhita. ,graduation ,Bachelor of Ayurvedic Medicine and Surgery (BAMS)
+Swasthavritta Evam Yoga (Lifestyle Management  Public Health and Yoga) , Deals with preventive medicine  hygiene  dietetics  lifestyle modification  and the principles and practice of Yoga for maintaining health. ,graduation ,Bachelor of Ayurvedic Medicine and Surgery (BAMS)
+Kayachikitsa (Internal Medicine including Manasa Roga  Rasayana and Vajikarana) , Covers general medicine in Ayurveda  including treatment of internal diseases  mental health (psychiatry)  rejuvenation therapies (Rasayana)  and reproductive health (Vajikarana). ,graduation ,Bachelor of Ayurvedic Medicine and Surgery (BAMS)
+Panchakarma and Upakarma (Therapeutic Procedural Management) , Focuses on Ayurvedic detoxification and rejuvenation therapies  including procedures like Vamana  Virechana  Basti  Nasya  and Raktamokshana. ,graduation ,Bachelor of Ayurvedic Medicine and Surgery (BAMS)
+Shalya Tantra (General Surgery) , Deals with Ayurvedic surgical principles and techniques  integrating basic modern surgical understanding. ,graduation ,Bachelor of Ayurvedic Medicine and Surgery (BAMS)
+Shalakya Tantra (Ophthalmology  Oto Rhino Laryngology & Oro Dentistry) , Focuses on the diagnosis and treatment of diseases related to the head  ear  nose  throat  and eyes from an Ayurvedic perspective  also including basic dentistry concepts. ,graduation ,Bachelor of Ayurvedic Medicine and Surgery (BAMS)
+Prasuti Tantra Evam Stree Roga (Gynecology and Obstetrics) , Covers women's health  including menstruation  pregnancy  childbirth  and diseases of the female reproductive system from an Ayurvedic viewpoint  often incorporating relevant modern concepts. ,graduation ,Bachelor of Ayurvedic Medicine and Surgery (BAMS)
+Kaumarabhritya (Pediatrics) , Focuses on child health care from birth to adolescence  covering growth  development  nutrition  and diseases common in children from an Ayurvedic perspective. ,graduation ,Bachelor of Ayurvedic Medicine and Surgery (BAMS)
+Samhita Adhyayan (Study of Ayurveda Classical Text) , Continues the in depth study of important Ayurvedic texts. ,graduation ,Bachelor of Ayurvedic Medicine and Surgery (BAMS)
+Atyaikachikitsa (Emergency Medicine) , Provides knowledge about managing medical emergencies  integrating Ayurvedic and relevant modern approaches. ,graduation ,Bachelor of Ayurvedic Medicine and Surgery (BAMS)
+Research Methodology and Medical statistics , Teaches the principles of conducting medical research and analyzing data  crucial for evidence based practice and further studies ,graduation ,Bachelor of Ayurvedic Medicine and Surgery (BAMS)
+Homoeopathic Pharmacy , Studies the history  development  preparation  standardization  and dispensing of homoeopathic medicines. ,graduation ,Bachelor of Homoeopathic Medicine and Surgery (BHMS) 
+Anatomy (including Histology and Embryology) , Covers the detailed structure of the human body  including gross anatomy  microscopic anatomy (histology)  and the development of an embryo. ,graduation ,Bachelor of Homoeopathic Medicine and Surgery (BHMS)
+Physiology (including Biochemistry) , Focuses on the functions and mechanisms of the human body systems and the chemical processes within living organisms. ,graduation ,Bachelor of Homoeopathic Medicine and Surgery (BHMS)
+Homoeopathic Materia Medica , Describes the source  preparation  and characteristic symptoms produced by various homoeopathic drugs  used for therapeutic prescription. ,graduation ,Bachelor of Homoeopathic Medicine and Surgery (BHMS)
+Organon of Medicine and Principles of Homoeopathic Philosophy , Studies the fundamental laws  principles  and philosophy of Homoeopathy as laid down by its founder  Dr. Samuel Hahnemann. ,graduation ,Bachelor of Homoeopathic Medicine and Surgery (BHMS)
+Psychology , Provides a basic understanding of human emotions and behavior  which is important for case taking and understanding the patient as a whole. ,graduation ,Bachelor of Homoeopathic Medicine and Surgery (BHMS)
+Pathology and Microbiology (including Parasitology  Bacteriology  and Virology) , Examines disease processes  structural abnormalities caused by diseases  and the role of microorganisms and parasites in health and illness. ,graduation ,Bachelor of Homoeopathic Medicine and Surgery (BHMS)
+Forensic Medicine & Toxicology , Applies medical knowledge to legal issues and studies the effects of poisons on the human body. ,graduation ,Bachelor of Homoeopathic Medicine and Surgery (BHMS)
+Homoeopathic Materia Medica , Continues the in depth study of homoeopathic remedies and their application. ,graduation ,Bachelor of Homoeopathic Medicine and Surgery (BHMS)
+Organon of Medicine and Principles of Homoeopathic Philosophy , Continues the study of homoeopathic principles and their application in clinical practice. ,graduation ,Bachelor of Homoeopathic Medicine and Surgery (BHMS)
+Practice of Medicine with Homoeopathic Therapeutics , Covers the diagnosis  prognosis  and homoeopathic treatment of various general medical conditions and systemic diseases  including skin  psychiatric  and infectious illnesses. ,graduation ,Bachelor of Homoeopathic Medicine and Surgery (BHMS)
+Surgery (including ENT  Eye  Dental  and Homoeo Therapeutics) , Deals with surgical concepts  applied anatomy  and basic surgical methods from a general perspective  along with homoeopathic management in related conditions. ,graduation ,Bachelor of Homoeopathic Medicine and Surgery (BHMS)
+Obstetrics & Gynaecology Infant Care and Homoeo Therapeutics , Covers women's health  pregnancy  childbirth  infant care  and related diseases  including their homoeopathic management. ,graduation ,Bachelor of Homoeopathic Medicine and Surgery (BHMS)
+Community Medicine , Focuses on public health  preventive medicine  hygiene  epidemiology  and biostatistics  emphasizing the social aspects of health and disease. ,graduation ,Bachelor of Homoeopathic Medicine and Surgery (BHMS)
+Homoeopathic Materia Medica , Further study of the Materia Medica for accurate prescribing and understanding drug substances. ,graduation ,Bachelor of Homoeopathic Medicine and Surgery (BHMS)
+Organon of Medicine & Homoeopathic Philosophy , Advanced study of homoeopathic philosophy and principles for effective clinical practice. ,graduation ,Bachelor of Homoeopathic Medicine and Surgery (BHMS)
+Repertory , Teaches the methodology and techniques of using the Homoeopathic Repertory  a crucial tool for selecting the appropriate remedy based on symptoms ,graduation ,Bachelor of Homoeopathic Medicine and Surgery (BHMS)
+Paper 1 Accounting (100 Marks) , This paper covers the fundamental principles and practices of accounting. ,graduation ,Bachelor of Computer Applications (BCA)
+Paper 2 Business Laws (100 Marks) , Focuses on various business laws relevant to business operations. ,graduation ,Bachelor of Computer Applications (BCA)
+Paper 3 Quantitative Aptitude (100 Marks) , This paper is divided into three parts  Business Mathematics  Logical Reasoning  and Statistics. ,graduation ,Bachelor of Computer Applications (BCA)
+Paper 4 Business Economics (100 Marks) , Covers economic principles in a business context ,graduation ,Bachelor of Computer Applications (BCA)
+Paper 1 Advanced Accounting (100 Marks) , This subject includes the application of accounting standards  preparation and presentation of financial statements  and advanced accounting topics. ,graduation ,Bachelor of Computer Applications (BCA)
+Paper 2 Corporate and Other Laws (100 Marks) , This paper is split into two parts  Corporate Law and Other Laws  including aspects of the Companies Act. ,graduation ,Bachelor of Computer Applications (BCA)
+Paper 3 Taxation (100 Marks) , This paper includes two sections  Income Tax Law and Goods and Services Tax (GST). ,graduation ,Bachelor of Computer Applications (BCA)
+Paper 4 Cost and Management Accounting (100 Marks) , Covers the principles and applications of cost and management accounting. ,graduation ,Bachelor of Computer Applications (BCA)
+Paper 5 Auditing and Ethics (100 Marks) , Focuses on auditing principles  procedures  and professional ethics. ,graduation ,Bachelor of Computer Applications (BCA)
+Paper 6 Financial Management and Strategic Management (100 Marks) , This paper is divided into two sections  Financial Management and Strategic Management. ,graduation ,Bachelor of Computer Applications (BCA)
+Paper 1 Financial Reporting (100 Marks) , Covers advanced concepts in financial reporting  including Indian Accounting Standards (Ind AS). ,graduation ,Bachelor of Computer Applications (BCA)
+Paper 2 Advanced Financial Management (100 Marks) , Deals with financial policy  corporate strategy  risk management  and capital budgeting. ,graduation ,Bachelor of Computer Applications (BCA)
+Paper 3 Advanced Auditing  Assurance and Professional Ethics (100 Marks) , Focuses on quality control  general auditing principles  risk assessment  and professional ethics. ,graduation ,Bachelor of Computer Applications (BCA)
+Paper 4 Direct Tax Laws & International Taxation (100 Marks) , Covers direct tax laws and the taxation of international transactions. ,graduation ,Bachelor of Computer Applications (BCA)
+Paper 5 Indirect Tax Laws (100 Marks) , This paper is divided into two parts  Goods and Services Tax (GST) and Customs & FTP. ,graduation ,Bachelor of Computer Applications (BCA)
+Paper 6 Integrated Business Solutions (Multi Disciplinary Case Study With Strategic Management) (100 Marks) , This paper is case study based and covers corporate and economic laws  as well as strategic cost and performance management ,graduation ,Bachelor of Computer Applications (BCA)
+Basic Sciences , Physics  Chemistry  and Biology/Mathematics are often prerequisites or foundational subjects  providing the core scientific knowledge for agricultural studies. ,graduation ,agriculture
+Engineering Mathematics , Focuses on mathematical methods and tools relevant to agricultural engineering and data analysis. ,graduation ,agriculture
+Computer Applications/Agricultural Informatics , Introduces computer use and data management in agriculture. ,graduation ,agriculture
+English Language and Communication Skills , Develops communication skills essential for agricultural professionals. ,graduation ,agriculture
+Rural Sociology & Educational Psychology , Explores the social and educational aspects of rural communities involved in agriculture. ,graduation ,agriculture
+Agricultural Heritage , Covers the history and traditions of agriculture. ,graduation ,agriculture
+Agronomy , Deals with crop production  soil fertility  water management  and weed control. Topics include principles of crop production  field crop management (Kharif and Rabi)  water management (including micro irrigation)  and weed management. ,graduation ,agriculture
+Soil Science , Studies soil composition  properties  classification  fertility  and management. Subjects include fundamentals of soil science  soil chemistry  soil fertility and nutrient management  and problematic soils. ,graduation ,agriculture
+Horticulture , Focuses on the cultivation of fruits  vegetables  flowers  and ornamental plants  along with landscaping. Subjects include production technology for fruit  vegetable  and flower crops. ,graduation ,agriculture
+Plant Pathology , Studies plant diseases and their management. Subjects include plant pathogens  principles of plant pathology  and management of diseases affecting field and horticultural crops. ,graduation ,agriculture
+Agricultural Entomology , Deals with insects  particularly pests affecting crops  and their management. Subjects include insect morphology and systematics  ecology  integrated pest management  and beneficial insects. ,graduation ,agriculture
+Genetics and Plant Breeding , Focuses on heredity  plant improvement through breeding techniques  and genetic engineering. Subjects include principles of genetics and plant breeding  seed technology  and crop improvement. ,graduation ,agriculture
+Agricultural Economics , Covers the economic aspects of agriculture  including farm management  agribusiness  and marketing. Subjects include principles of agricultural economics  agricultural finance and cooperation  and agricultural marketing. ,graduation ,agriculture
+Agricultural Engineering , Applies engineering principles to design and manage agricultural machinery  irrigation systems  and structures. Subjects include farm machinery and power  soil and water conservation engineering  and renewable energy. ,graduation ,agriculture
+Livestock and Poultry Management , Covers the care and management of farm animals and poultry. ,graduation ,agriculture
+Agricultural Microbiology , Studies microorganisms relevant to soil fertility and plant health. ,graduation ,agriculture
+Environmental Science and Disaster Management , Addresses environmental issues and disaster preparedness in agriculture. ,graduation ,agriculture
+Agricultural Extension Education , Focuses on disseminating agricultural knowledge to farmers and rural communities. ,graduation ,agriculture
+Plant Biochemistry and Biotechnology , Explores the chemical processes within plants and the use of biotechnology for crop improvement ,graduation ,agriculture
+Core Courses , Classical Mechanics  Electromagnetism  Thermodynamics and Statistical Mechanics  Quantum Mechanics  Optics  Modern Physics  Solid State Physics. ,graduation ,physics
+Mathematics Courses , Calculus  Linear Algebra  Differential Equations  Complex Analysis. ,graduation ,physics
+Laboratory Courses , Mechanics Lab  Electricity and Magnetism Lab  Waves and Optics Lab  Electronics and Instrumentation Lab. ,graduation ,physics
+Skill Enhancement Courses , Physics Workshop Skills  Computational Physics Skills  Electrical circuit network Skills. ,graduation ,physics
+Elective Courses , Geophysics  Biophysics  Medical Physics  Nanotechnology  Environmental Physics  Computational Physics  Robotics  Artificial Intelligence  Machine Learning  Data Analysis ,graduation ,physics
+Inorganic Chemistry , Atomic Structure  Chemical Bonding  P Block Elements  Chemistry of Noble Gases  Periodic Properties  Bioinorganic Chemistry. ,graduation ,chemistry
+Organic Chemistry , Structure and bonding  Stereochemistry  Alkanes and Cycloalkanes  Alkenes  Cycloalkenes  Dienes  and Alkynes  Aromatic compounds  Amines. ,graduation ,chemistry
+Physical Chemistry , Gaseous State  Liquid State  Solid State  Ionic and Phase Equilibria  Chemical Kinetics  Surface Chemistry  Chemical Thermodynamics. ,graduation ,chemistry
+Analytical Chemistry , Introduces techniques for detecting  identifying  characterizing  and quantifying chemical compounds  including methods like Chromatography. ,graduation ,chemistry
+Elective Subjects , Application of Computer in Chemistry  Green Chemistry  Polymer Chemistry  Industrial Chemicals and the Environment ,graduation ,chemistry
+Core Subjects , Algebra  Differential Equations  Real Analysis  Linear Algebra  Probability and Statistics  Geometry. ,graduation ,Mathematics
+Skill Enhancement Courses , Logic and Sets  Analytical Geometry  Integral Calculus  Vector Calculus. ,graduation ,Mathematics
+Elective Subjects , Numerical Analysis  Vector Calculus  Graph Theory  Mechanics  Statistics ,graduation ,Mathematics
+Core Subjects , Cell Biology  Genetics  Biomolecules  Plant Diversity  Animal Diversity  Biostatistics and Computer Applications. ,graduation ,biology
+Optional Subjects , Botany  Zoology  Plant Physiology  Plant diversity  Molecular biology  Ecology  Environmental Science.  ,graduation ,biology
+Core Subjects , Ecology  Environmental Biology  Geology  Physics  Soil Science  Chemistry  and more. ,graduation ,environmental science
+Elective Subjects , Climate Change  Renewable Energy  Wildlife Management  GIS  Disaster Management.  ,graduation ,environmental science
+Introductory Microeconomics , Deals with the behavior of individual decision makers like households and firms  focusing on topics like demand  supply  markets  consumer theory  and production costs. ,graduation ,economics
+Introductory Macroeconomics , Studies the economy as a whole  focusing on aggregate concepts like national income  GDP  inflation  unemployment  and economic growth. ,graduation ,economics
+Mathematical Methods for Economics , Applies mathematical techniques (Calculus  Linear Algebra  Differential Equations  Optimization) to model and analyze economic theories and problems. ,graduation ,economics
+Statistical Methods for Economics / Economic Statistics , Focuses on statistical concepts and techniques for data analysis and interpretation in economics  including probability  sampling  and hypothesis testing. ,graduation ,economics
+Indian Economy , Analyzes the performance  policies  and challenges of the Indian economy  covering topics like economic development post independence  population dynamics  growth and distribution  and sector wise performance in agriculture  industry  and services. ,graduation ,economics
+Development Economics , Focuses on the economic  social  and political conditions in developing countries  and strategies to promote economic growth  reduce poverty and inequality  and improve living standards. ,graduation ,economics
+Intermediate Microeconomics , Delves deeper into consumer and producer theory  market structures  general equilibrium  market failures  and game theory. ,graduation ,economics
+Intermediate Macroeconomics , Explores advanced macroeconomic models and policy issues  including economic growth  fiscal and monetary policy  and different schools of macroeconomic thought. ,graduation ,economics
+Introductory Econometrics , Applies statistical methods to empirical economic research  covering topics like linear regression models  hypothesis testing  and econometric software packages. ,graduation ,economics
+Financial Economics , Covers financial markets  institutions  instruments  investments  and corporate finance. ,graduation ,economics
+International Economics , Focuses on international trade theories  trade policy  foreign exchange markets  and international macroeconomic policy. ,graduation ,economics
+Public Economics / Public Finance , Studies government intervention in the economy  including taxation  public expenditure  fiscal policy  and public debt. ,graduation ,economics
+Environmental Economics , Analyzes environmental issues from an economic perspective  covering topics like externalities  environmental policy  natural resource economics  and sustainable development. ,graduation ,economics
+Labor Economics , Focuses on labor markets  wages  employment  and related policies. ,graduation ,economics
+Economics of Health and Education , Examines the role and impact of health and education in economic development and related policies. ,graduation ,economics
+Economic History of India , Traces the evolution of the Indian economy through historical periods  analyzing key trends and policy debates. ,graduation ,economics
+Comparative Economic Development , Studies the economic development trajectories of different countries  analyzing the role of state  institutions  and various factors influencing growth. ,graduation ,economics
+Behavioral Economics , Integrates insights from psychology to understand how psychological factors influence economic decision making. ,graduation ,economics
+Applied Econometrics , Focuses on the practical application of econometric techniques to real world economic data. ,graduation ,economics
+History of Economic Thought , Traces the evolution of economic ideas and theories throughout history. ,graduation ,economics
+Research Methodology , Focuses on the methods and techniques used to conduct research in economics. ,graduation ,economics
+Projects/Dissertations , Provides students with an opportunity to undertake independent research on a specific economic topic. ,graduation ,economics
+Internships , Offers practical experience in economics related fields like finance  research  or policy analysis ,graduation ,economics
+Accountancy , Focuses on the principles and practices of financial accounting  including recording  classifying  and reporting financial transactions. ,graduation ,commerce
+Business Studies , Explores the principles of business management  organizational structure  and marketing strategies. ,graduation ,commerce
+Economics , Introduces concepts related to resource allocation and economic systems  covering microeconomics and macroeconomics. ,graduation ,commerce
+English , Develops essential communication skills ,graduation ,commerce
+Mathematics , Essential for careers in finance  economics  and data analysis  covering topics like algebra  calculus  and statistics. ,graduation ,commerce
+Informatics Practices , Focuses on computer applications and software  such as database management and web development. ,graduation ,commerce
+Entrepreneurship , Explores setting up and running a business  including business planning and market assessment. ,graduation ,commerce
+Physical Education , Emphasizes health and fitness. ,graduation ,commerce
+Computer Science , Focuses on programming and computational theory. ,graduation ,commerce
+Home Science , Covers aspects of home management and nutrition. ,graduation ,commerce
+Psychology , Offers insights into human behavior. ,graduation ,commerce
+Fine Arts , Encompasses creative disciplines. ,graduation ,commerce
+Legal Studies , Introduces the legal aspects of business. ,graduation ,commerce
+Other Language , Provides an option to study a foreign language. ,graduation ,commerce
+Principles of Management , Introduction to the fundamental theories  functions  and practices of management. ,graduation ,management
+Business Economics (Microeconomics & Macroeconomics) , Studies the behavior of individual economic agents and the overall economy. ,graduation ,management
+Financial Accounting , Covers basic accounting concepts  preparation of financial statements  and financial analysis. ,graduation ,management
+Business Mathematics & Statistics / Quantitative Methods , Applies mathematical and statistical tools for data analysis and decision making in business. ,graduation ,management
+Business Communication , Focuses on developing effective communication skills for professional settings.  ,graduation ,management
+Organizational Behavior , Studies individual and group behavior within organizations and its impact on performance. ,graduation ,management
+Marketing Management , Covers the principles of marketing strategies  consumer behavior  and market research. ,graduation ,management
+Human Resource Management (HRM) , Focuses on managing the workforce  including recruitment  training  performance management  and employee relations. ,graduation ,management
+Financial Management , Deals with financial decision making  planning  and control within organizations. ,graduation ,management
+Operations Management , Covers production planning  supply chain management  logistics  and process optimization. ,graduation ,management
+Business Law , Introduces the legal aspects affecting business operations and transactions. ,graduation ,management
+Business Research Methods , Teaches methodologies for conducting research in business and analyzing data. ,graduation ,management
+Management Information Systems (MIS) , Focuses on the use of information technology in business processes and decision making. ,graduation ,management
+Strategic Management , Deals with developing and implementing business strategies for achieving organizational goals. ,graduation ,management
+Entrepreneurship , Explores the process of starting and managing new businesses  fostering innovation and risk taking. ,graduation ,management
+Business Ethics and Corporate Social Responsibility , Examines ethical decision making and the social responsibilities of businesses. ,graduation ,management
+Finance , Investment analysis  portfolio management  international finance  mergers & acquisitions. ,graduation ,management
+Marketing , Consumer behavior  market research  branding  advertising  digital marketing  sales management. ,graduation ,management
+Human Resource Management , Talent acquisition  training & development  compensation management  industrial relations. ,graduation ,management
+Operations Management , Supply chain management  quality control  project management  logistics. ,graduation ,management
+International Business , Global market dynamics  cross cultural management  international trade. ,graduation ,management
+Business Analytics , Data analysis  statistical methods  predictive modeling. ,graduation ,management
+Information Technology Management , Managing information systems and IT infrastructure within businesses. ,graduation ,management
+Digital Marketing , Online marketing channels  SEO  social media  content marketing ,graduation ,management
+Project Work/Capstone Project , Applying learned skills to solve real world business problems. ,graduation ,management
+Internships , Gaining practical experience in relevant industries. ,graduation ,management
+Case Studies , Analyzing and resolving complex business issues. ,graduation ,management
+Soft Skills and Personality Development , Training in communication  leadership  teamwork  and other soft skills ,graduation ,management
+Constitutional Law , Explores the framework of the Indian Constitution  fundamental rights  directive principles  and the structure of the government. ,graduation ,LLB law
+Contract Law , Deals with the formation  enforceability  and breach of agreements  including the Indian Contract Act  1872. ,graduation ,LLB law
+Criminal Law (Indian Penal Code  IPC) , Familiarizes students with various offenses  general principles of criminal liability  punishments  and defenses under the Indian Penal Code. ,graduation ,LLB law
+Law of Torts , Covers civil wrongs  negligence  defamation  tortious liability  defenses  and consumer protection laws. ,graduation ,LLB law
+Property Law , Studies the legal ownership  transfer  and use of property  including concepts like sale  mortgage  and lease under the Transfer of Property Act  1882. ,graduation ,LLB law
+Family Law , Focuses on laws related to marriage  divorce  adoption  maintenance  and succession under various personal laws (Hindu  Muslim  Christian). ,graduation ,LLB law
+Jurisprudence & Legal Theory , Analyzes the fundamental concepts of law  its origins  interpretations  and philosophical underpinnings. ,graduation ,LLB law
+Administrative Law , This area of law examines the legal regulation of public administration. ,graduation ,LLB law
+Law of Evidence , This subject focuses on the admissibility of evidence and proof in court trials. ,graduation ,LLB law
+Civil Procedure Code (CPC) & Limitation Act , Covers the stages and procedures involved in civil cases  including the process of filing  conducting  and appealing civil suits. ,graduation ,LLB law
+Criminal Procedure Code (CrPC) , Deals with the procedures for investigating  prosecuting  and trying criminal cases. ,graduation ,LLB law
+Public International Law , This subject helps understand the principles governing relations between nations. ,graduation ,LLB law
+Labor Law & Industrial Relations , Introduces the structure of industrial relations in India  including key legislation like the Trade Union Act  1926  and the Industrial Dispute Act  1947. ,graduation ,LLB law
+Company Law , Deals with the legal aspects of company formation  management  corporate governance  and winding up under the Companies Act  2013. ,graduation ,LLB law
+Environmental Law , Focuses on legal frameworks for environmental protection and pollution control. ,graduation ,LLB law
+Taxation Law , Covers direct and indirect taxes  including income tax principles and the Goods and Services Tax (GST). ,graduation ,LLB law
+Intellectual Property Law (IPL) , This area of law examines patents  trademarks  and copyrights. ,graduation ,LLB law
+Professional Ethics , Covers the ethical obligations and conduct of legal practitioners. ,graduation ,LLB law
+Banking Laws , Explores banking regulations and the legal framework for financial institutions. ,graduation ,LLB law
+Land Laws , Investigates private law rules affecting property ownership and land use. ,graduation ,LLB law
+Legal Language , Enhances proficiency in legal terminology and drafting skills ,graduation ,LLB law
+Cyber Law , This subject addresses legal issues arising from technology and the internet. ,graduation ,LLB law
+Women and Law , Examines legal issues affecting women and gender justice. ,graduation ,LLB law
+Media Law , Covers legal frameworks governing media  communication  and censorship. ,graduation ,LLB law
+Competition Law , This area explores the legal framework for promoting fair competition. ,graduation ,LLB law
+International Trade Law , Focuses on the legal aspects of international trade and commerce. ,graduation ,LLB law
+Human Rights Law , This subject explores international and domestic laws protecting fundamental human rights. ,graduation ,LLB law
+Insurance Law , Concerns the regulation of insurance  policies  and claims. ,graduation ,LLB law
+Criminology and Penology , Studies the causes of crime  criminal behavior  and the principles of punishment. ,graduation ,LLB law
+Alternative Dispute Resolution (ADR) , Introduces methods like arbitration  conciliation  and mediation for resolving disputes outside traditional court litigation. ,graduation ,LLB law
+Introduction to Mass Communication , Covers the history  theories  and concepts of mass communication and its various forms  including print  broadcast  and digital media. ,graduation ,mass media and communication
+Media Laws and Ethics , Examines the legal and ethical framework governing media practice  covering freedom of speech  copyright law  libel  defamation  and ethical considerations. ,graduation ,mass media and communication
+Reporting and Editing , Focuses on news writing  feature writing  and editing techniques for various media platforms  teaching students how to gather  assess  create  and present news and information effectively. ,graduation ,mass media and communication
+Mass Communication Theories , Explores various theories that explain the effects of media on individuals and society  such as Agenda Setting Theory  Cultivation Theory  and Uses and Gratifications Theory. ,graduation ,mass media and communication
+Media and Society , Examines the role of media in shaping public opinion  influencing social change  and the relationship between media and democracy. ,graduation ,mass media and communication
+Introduction to Journalism , Provides an overview of the history  principles  and practices of journalism. ,graduation ,mass media and communication
+Introduction to Advertising , Covers the basics of advertising  including types of advertising  media planning  creative strategies  and campaign management. ,graduation ,mass media and communication
+Public Relations and Corporate Communication , Focuses on building and maintaining positive relationships with stakeholders and managing reputation. ,graduation ,mass media and communication
+Media Management , Covers the business side of media organizations  including budgeting  staffing  and strategic planning. ,graduation ,mass media and communication
+Communication Theories , Studies the fundamental principles and models of communication. ,graduation ,mass media and communication
+Media Research Methods , Teaches techniques for conducting research on media effects  audiences  and content. ,graduation ,mass media and communication
+Indian Constitution and Media Laws , Focuses on the legal framework governing media within the Indian context. ,graduation ,mass media and communication
+Digital and Social Media , Explores the use of digital platforms for news dissemination  content creation  and social media engagement. ,graduation ,mass media and communication
+Visual Communication , Deals with the use of images and other visual elements to convey messages effectively. ,graduation ,mass media and communication
+Broadcast Journalism (Television and Radio) , Focuses on the principles and practices of news reporting and production for television and radio. ,graduation ,mass media and communication
+Digital Journalism , Focuses on creating and distributing news and information using digital platforms and technologies. ,graduation ,mass media and communication
+Advertising and Marketing Communication , Covers topics like media planning  branding  campaign strategy  and consumer behavior. ,graduation ,mass media and communication
+Public Relations and Event Management , Focuses on building and managing relationships with the public  media  and other stakeholders  as well as planning and executing events. ,graduation ,mass media and communication
+Film Studies and Documentary Production , Explores the history  theory  and aesthetics of film  as well as techniques for documentary production. ,graduation ,mass media and communication
+Photojournalism , Combines photography with journalism to tell stories visually. ,graduation ,mass media and communication
+Creative Writing , Develops skills in various forms of creative writing for media. ,graduation ,mass media and communication
+Media Psychology , Examines the psychological effects of media on individuals. ,graduation ,mass media and communication
+Development Communication , Focuses on using communication strategies to promote social and economic development ,graduation ,mass media and communication

@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CareerCompass</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" >
+
+    <style>
+        body{
+            margin: 0;
+            background-color: rgba(0, 0, 0, 0.656);
+            /* align-content: center; */
+            /* margin-bottom: 50px; */
+            /* min-width: 700px; */
+        }
+        header{
+            width: 100%;
+            min-width: 700px;
+            height: 80px;
+            background-color: rgb(133, 28, 175);
+            /* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            position: fixed;
+            top: 0;
+            border-bottom-right-radius:100px;
+            border-bottom-left-radius:100px;
+            border-bottom: 5px solid rgb(127, 123, 127);
+            z-index: 1;
+        }
+        a{
+            text-decoration: none;
+            color: black;
+            margin: 0 20px;
+            /* padding: 20px; */
+            font-family: cursive;
+            font-size: large;
+            cursor: pointer;
+            /* border-bottom: 2px dotted black; */
+            border-radius: 5px;
+        }
+
+        header .menu{
+            font-size: 30px;
+            position: fixed;
+            right: 40px;  
+        }
+
+        a:hover{
+            font-size: 1.5rem;
+        }
+        i{
+            padding: 10px;
+            /* margin: 0; */
+        }
+
+        .dropdown{
+            display: none;
+            position: absolute;
+            top: 50px;
+            right: 0;
+            background-color:rgb(35, 35, 34);
+            z-index: 1;
+            border: 3px solid rgba(124, 121, 121, 0.823);
+            border-radius: 10px;
+            color: rgba(245, 245, 245, 0.721);
+            font-family: cursive;
+            letter-spacing: 1px;
+            font-size: medium;
+        }
+        .qualdropdown{
+            display: none;
+            width: 300px;
+            position: absolute;
+            right: 140px;
+            top: 0px;
+            background-color: rgb(35, 35, 34);
+            border: 3px solid rgba(124, 121, 121, 0.823);
+            border-radius: 10px;
+            padding: 10px;
+            text-align: center;
+        }
+        .dropdown p{
+            padding: 10px 10px;
+            margin: 0;
+            border-radius: 5px;
+        }
+        .dropdown p:hover{
+            background-color: rgba(240, 248, 255, 0.115);
+        }
+        .menu:hover .dropdown{
+            display: block;
+        }
+        .qual:hover .qualdropdown{
+            display: block;
+        }
+        input{
+            padding: 5px;
+            width: 90%;
+            height: 30px;
+            border-radius: 20px;
+            border: 3px solid rgba(60, 60, 59, 0.96);
+            outline: none;
+            margin: 10px;
+            background-color: rgb(146, 146, 148);
+        }
+        button{
+            border: none;
+            outline: none;
+            padding: 5px 10px;
+            border-radius: 10px;
+            background-color: rgb(156, 152, 152);
+        }
+        button:hover{
+            background-color: rgb(82, 175, 82);
+        }
+
+        main{
+            width: 100%;
+            min-height: 87vh;
+            background-color: rgb(35, 35, 34);
+            padding-top: 120px;
+            color: rgba(209, 206, 206, 0.762);
+            text-align: center;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+        #title p{
+            font-family: calibri;
+            font-size: 8vw;
+            line-height: 0;
+            font-weight: bolder;
+            letter-spacing: 1px;
+            color: rgb(159, 155, 156);
+        }
+        #title{
+            position: relative;
+            top: 100px;
+            text-align: center;
+        }
+
+
+        .container{
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: center;
+        }
+
+        .card{
+            background-color: rgb(35, 35, 34);
+            border: 2px solid rgba(124, 121, 121, 0.823);
+            border-radius: 10px;
+            width: 80%;
+            min-width: 700px;
+            text-align: left;
+            padding: 0 40px;
+        }
+        .jcard{
+            height: 220px;
+        }
+        .icard{
+            height: 180px;
+        }
+        .kcard,.lcard{
+            padding-top: 20px;
+        }
+
+        .card h3{
+            font-size: 1.5rem;
+            margin-top: 0px;
+            /* padding-top: 20px ; */
+            margin-bottom: 10px;
+            color: rgba(143, 226, 228, 0.496);
+        }
+
+        .card p{
+            font-size: 1rem;
+        }
+        .card #match{
+            background-color: rgb(6, 125, 6);
+            width: fit-content;
+            padding: 5px 10px;
+            margin: 0;
+            border-radius: 20px;
+            position: relative;
+            top: -10px;
+            right: -90%;
+            font-size: 12px;
+        }
+        .card #location{
+            position: relative;
+            bottom: 50px;
+            text-align: right;
+        }
+        .card #salary{
+            position: relative;
+            bottom: 100px;
+            text-align: center;
+        }
+        .card:hover {
+            transform: scale(1.02);
+            transition: 0.3s ease-in-out;
+            box-shadow: 0 0 10px rgb(96, 94, 94);
+        }
+        
+
+    </style>
+</head>
+<body>
+    <header>
+        <a class="job act" href="/jobs" ><i class="fa-solid fa-briefcase"></i>Jobs</a>
+        <a class="int act" href="/internships" ><i class="fa-solid fa-wrench"></i>Internships</a>
+        <a class="crs act" href="/courses" ><i class="fa-solid fa-book-bookmark"></i>Courses</a>
+        <a class="exm act" href="/exams" ><i class="fa-solid fa-book-open"></i>Exams</a>
+
+        <div class="menu">
+            <i class="fa-solid fa-bars"></i>
+            <div class="dropdown">
+                <div class="qual">
+                    <p>Qualifications</p>
+                    <div class="qualdropdown">
+                        <form action="/process" method="post" >
+                        <input type="text" name="persue" placeholder="Persuing/Persued eg.10,12,graduation">
+                        <input type="text" name="stream" placeholder="stream eg.mpc,cse">
+                        <input type="text" name="skills" placeholder="skills eg.abc,xyz">
+                        <button type="submit">Save</button></form>
+                    </div>
+                </div>
+                <p>About</p>
+
+            </div>
+        </div>
+        
+    </header>
+    
+
+    <main>
+        {% if jobs_data %}
+            <!-- <h2>Recommended Jobs</h2> -->
+            <style>.job{color: aliceblue;}</style>
+            <div class="container">
+                {% for job in jobs_data %}
+                    <div class="card jcard">
+                        <p id="match">{{ (job['Similarity'])[:3] }}% Match</p>
+                        <h3>{{ job['Job Title'] }}</h3>
+                        <p id="company"><strong><i class="fa-solid fa-building"></i></strong>{{ job['Industry'] }}</p>
+                        <p><strong>Skills:</strong> {{ job['Skills'] }}</p>
+                        <p><strong>Role:</strong> {{ job['Role'] }}</p>             
+                        <p id="location"><strong><i class="fa-solid fa-location-dot"></i></strong> {{ job['Location'] }}</p>
+                        <p id="salary"><strong><i class="fa-solid fa-coins"></i></strong>{{ job['Job Salary'] }}</p>
+                        
+                    </div>
+                    {% else %}
+                        <h2>Not Available</h2>
+                {% endfor %}
+            </div>
+        {% elif internships_data %}
+            <!-- <h2>Available Internships</h2> -->
+            <style>.int{color: aliceblue;}</style>
+            <div class="container">
+                {% for internship in internships_data %}
+                    <div class="card icard">
+                        <p id="match">{{ (internship['Similarity'])[:3] }}% Match</p>
+                        <h3>{{ internship['Role'] }}</h3>
+                        <p id="company"><strong><i class="fa-solid fa-building"></i></strong> {{ internship['Company'] }}</p>
+                        <p><strong><i class="fa-solid fa-clock"></i></strong> {{ internship['duration'] }}</p>
+                        <p id="location"><strong><i class="fa-solid fa-location-dot"></i></strong> {{ internship['location'] }}</p>
+                        <p id="salary"><strong><i class="fa-solid fa-coins"></i></strong>{{ internship['stripend'] }}</p>
+                    </div>
+                    {% else %}
+                        <h2>Not Available</h2>
+                {% endfor %}
+            </div>
+        {% elif exams_data %}
+            <!-- <h2>Upcoming Exams</h2> -->
+            <style>.exm{color: aliceblue;}</style>
+            <div class="container">
+                {% for exam in exams_data %}
+                    <div class="card kcard">
+                        <h3>{{ exam['title'] }}</h3>
+                        <p> {{ exam['description'] }}</p>
+                        <!-- <p><strong>Location:</strong> {{ exam['Location'] }}</p> -->
+                    </div>
+                {% endfor %}
+            </div>
+        {% elif courses_data %}
+            <!-- <h2>Available Courses</h2> -->
+            <style>.crs{color: aliceblue;}</style>
+            <div class="container">
+                {% for course in courses_data %}
+                    <div class="card lcard">
+                        <h3>{{ course['title'] }}</h3>
+                        <p>{{ course['description'] }}</p>
+                    </div>
+                {% endfor %}
+            </div>
+        {% else %}
+            <div id="title" class="content active">
+                <p>Welcome !</p>
+                <p>Padyala Himanshu</p>
+            </div>
+        {% endif %}
+    </main>
+    
+    
+</body>
+</html>
+
+
+
+ 
